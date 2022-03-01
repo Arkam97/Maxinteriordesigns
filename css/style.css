@@ -297,7 +297,7 @@
   
   /* If you don't want the footer to be responsive, remove these media queries */
   
-  /* @media (max-width: 1000px) {
+  @media (max-width: 1000px) {
   
     .footer-distributed {
       font: bold 14px sans-serif;
@@ -316,7 +316,7 @@
       padding: 10px 35px;
     }
   
-  } */
+  }
   
   @media (max-width: 800px) {
   
